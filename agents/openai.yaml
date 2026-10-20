@@ -1,0 +1,4 @@
+interface:
+  display_name: "ngmind"
+  short_description: "Learn Angular from architecture down to every line"
+  default_prompt: "$ngmind explain this code in concentric circles, from the whys of its architecture down to its lines, with Programmer and Angular voices and one focus per turn: [paste the code or name the file and function]"
